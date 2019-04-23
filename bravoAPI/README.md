@@ -38,7 +38,7 @@ https://challengerhurb.herokuapp.com/
 ***
 ### Testes de estresse
 
-Foi-se utilizado o software [JMeter](https://jmeter.apache.org/) para realização dos testes testes iniciais de estresse. O cenário configurado foi de 5 usuário em um intervalo de 1s realizando 1000 requisição. A aplicação de comportou muito bem, com uma média de resposta em sua requisições de 25ms.
+Foi-se utilizado o software [JMeter](https://jmeter.apache.org/) para realização dos testes iniciais de estresse. O cenário configurado foi de 5 usuário em um intervalo de 1s realizando 1000 requisição. A aplicação de comportou muito bem, com uma média de resposta em sua requisições de 25ms.
 
 ***
 ### Endpoints
